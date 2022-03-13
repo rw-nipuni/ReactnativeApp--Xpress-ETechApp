@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017105797989",
+    "project_id": "final-project-xpressetech-app",
+    "storage_bucket": "final-project-xpressetech-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017105797989:android:8288ad0ca3dde2150a878c",
+        "android_client_info": {
+          "package_name": "com.final_project_xpressetech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017105797989-63a23ka88pnfig11l36n354bqvu3sn6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeNuuevuA_yeJAB5-CcIJaoA3JRjNwbcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017105797989-63a23ka88pnfig11l36n354bqvu3sn6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

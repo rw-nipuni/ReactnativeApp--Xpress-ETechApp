@@ -1,0 +1,17 @@
+export default Images = [
+  {URL: require('../assets/images/1.jpg')},
+  {URL: require('../assets/images/2.jpg')},
+  {URL: require('../assets/images/3.png')},
+  {URL: require('../assets/images/4.jpg')},
+  {URL: require('../assets/images/5.jpg')},
+  {URL: require('../assets/images/a.jpg')},
+  {URL: require('../assets/images/b.jpg')},
+  {URL: require('../assets/images/c.jpg')},
+  {URL: require('../assets/images/d.jpg')},
+  {URL: require('../assets/images/e.jpg')},
+  {URL: require('../assets/images/f.jpg')},
+  {URL: require('../assets/images/g.jpg')},
+  {URL: require('../assets/images/h.jpg')},
+  {URL: require('../assets/images/i.jpg')},
+  {URL: require('../assets/images/j.jpg')},
+];
